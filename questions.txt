@@ -1,0 +1,14 @@
+What is the CPU?,Central Processing Unit
+What is the ALU?,Arithmetic Logic Unit
+What is an input device?,Device used to input data
+What is an output device?,A device used to output information
+What is hardware?,Physical Parts
+What is software?,Internal Programs
+What does RAD stand for?,Rapid Application Development
+Acronym for Feasibility study is?,TELOS
+What is systems software?,Controls the hardware
+What is LAN?,Local Area Network
+What is WAN,Wide Area Network
+What is an identifier?,A name given to a variable
+
+
